@@ -14,4 +14,7 @@
   , "main" : "./lib/main"
   , "directories" : { "lib" : "./lib" }
   , "bin" : { "sauce" : "./lib/bin.js" }
+  , "dependencies" : {
+    "optimist" : "latest"
+  }
 }
