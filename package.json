@@ -2,7 +2,7 @@
     "name" : "sauce"
   , "description" : "All the Sauce"
   , "tags" : ["web", "sauce"]
-  , "version" : "0.0.5"
+  , "version" : "0.0.6"
   , "author" : "Adam Christian <adam.christian@gmail.com>"
   , "repository" :
     { "type" : "git"
