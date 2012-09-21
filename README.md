@@ -28,7 +28,7 @@ console.log(sauce.sauce().creds());
 ## CLI
 
 <pre>
-  > sauce --browser iexplore --version 9 --CLI
+  > sauce --browser iexplore --version 9 --cli
   > sauce --creds
   > sauce --browser iphone --version 5 --os MAC
 </pre>
