@@ -9,10 +9,10 @@
   "author": "Adam Christian <adam.christian@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/admc/sauce.git"
+    "url": "https://github.com/admc/saucejs.git"
   },
   "bugs": {
-    "url": "https://github.com/admc/sauce/issues"
+    "url": "https://github.com/admc/saucejs/issues"
   },
   "engines": [
     "node"
