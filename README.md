@@ -25,4 +25,12 @@ var sauce = require('sauce');
 console.log(sauce.sauce().creds());
 </pre>
 
+## CLI
+
+<pre>
+  > sauce --browser iexplore --version 9 --CLI
+  > sauce --creds
+  > sauce --browser iphone --version 5 --os MAC
+</pre>
+
 

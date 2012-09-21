@@ -5,7 +5,7 @@
     "web",
     "sauce"
   ],
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": "Adam Christian <adam.christian@gmail.com>",
   "repository": {
     "type": "git",
@@ -26,6 +26,8 @@
   },
   "dependencies": {
     "optimist": "~0.3.4",
-    "colors": "~0.6.0-1"
+    "colors": "~0.6.0-1",
+    "wd": "~0.1.0",
+    "repl": "~0.1.3"
   }
 }
