@@ -5,14 +5,14 @@
     "web",
     "sauce"
   ],
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": "Adam Christian <adam.christian@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/admc/sauce.git"
+    "url": "https://github.com/admc/saucejs.git"
   },
   "bugs": {
-    "url": "https://github.com/admc/sauce/issues"
+    "url": "https://github.com/admc/saucejs/issues"
   },
   "engines": [
     "node"
@@ -28,6 +28,7 @@
     "optimist": "~0.3.4",
     "colors": "~0.6.0-1",
     "wd": "~0.1.0",
-    "repl": "~0.1.3"
+    "repl": "~0.1.3",
+    "request": "~2.11.4"
   }
 }
